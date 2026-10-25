@@ -96,3 +96,4 @@ async def scrape_decathlon(target=100):
 if __name__ == "__main__":
     asyncio.run(scrape_decathlon(target=120))
     print("[bold green]Scraping finished successfully.")
+    print("Brian was here !")
